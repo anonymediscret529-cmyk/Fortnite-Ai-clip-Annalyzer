@@ -1,0 +1,5 @@
+{
+  "name": "Fortnite Vision AI",
+  "description": "Advanced Fortnite clip analyzer using Gemini Vision to simulate YOLO object detection, track stats, and provide coaching insights.",
+  "requestFramePermissions": []
+}
